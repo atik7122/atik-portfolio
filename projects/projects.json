@@ -1,0 +1,72 @@
+[
+  {
+    "name": "AI-Powered Portfolio Assistant",
+    "desc": "Voice-enabled portfolio with AI chatbot using Groq LLM, STT & TTS for interactive navigation and smart responses.",
+    "image": "ai-portfolio",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Travel Planner API",
+    "desc": "RESTful API built with ASP.NET Core for managing trips with JWT authentication and SQL Server integration.",
+    "image": "travel-api",
+    "category": "backend",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+   {
+    "name": "Bank Management System (ATM Simulator)",
+    "desc": "Desktop banking system using Java Swing and MySQL with features like deposit, withdrawal, PIN change, and transaction validation.",
+    "image": "bank-system",
+    "category": "java",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Food Delivery Website",
+    "desc": "Responsive React web app with dynamic product listing, cart system, and API integration.",
+    "image": "food-website",
+    "category": "frontend",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+    {
+  "name": "Pharma AI Chatbot",
+  "desc": "AI-powered medical assistant built using Dialogflow with NLP and ML models. Users can input symptoms, receive suggested medical specialties, and get doctor recommendations with details like location, fees, and appointment schedule.",
+  "image": "pharma-ai",
+  "category": "ai",
+  "links": {
+    "view": "#",
+    "code": "#"
+  }
+},
+  {
+    "name": "Adrita Export Website",
+    "desc": "Professional export-import website with SEO-friendly design, product categories, and WhatsApp integration.",
+    "image": "adrita",
+    "category": "wordpress",
+    "links": {
+      "view": "https://adritaexport.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "NiT International Website",
+    "desc": "Business website with improved UI, optimized navigation, and structured product pages.",
+    "image": "nit",
+    "category": "wordpress",
+    "links": {
+      "view": "https://nitinternational.com",
+      "code": "#"
+    }
+  }
+]
