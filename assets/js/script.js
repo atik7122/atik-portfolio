@@ -72,6 +72,7 @@ document.addEventListener('visibilitychange',
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
     strings: [
+        "Project Management",
         "Full Stack Development",
         "ASP.NET Core Web API",
         "WordPress Development",
